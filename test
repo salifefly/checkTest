@@ -2,3 +2,5 @@ test - checkout branch feature-A
 
 Add branch fix-B
 
+Add branch feature-C
+Change branch feature-C second time
